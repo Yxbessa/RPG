@@ -1,0 +1,6 @@
+name = input("Escolha seu nome:")
+print("Escolha sua classe entre:")
+print("1. Guerreiro")
+print("2. Mago")
+print("3. Arqueiro")
+character_class = input()
